@@ -56,3 +56,16 @@ body{
     }
 
 }
+
+.card{
+    border: none;
+    border-radius: 15px;
+}
+
+.btn{
+    border-radius: 10px;
+}
+
+input, select{
+    border-radius: 10px !important;
+}
